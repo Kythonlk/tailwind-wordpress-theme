@@ -1,7 +1,7 @@
 kythonlk
 ========
 
-A custom theme based on Tailwind
+A custom WordPress theme based on Tailwind
 
 ## Quickstart
 
